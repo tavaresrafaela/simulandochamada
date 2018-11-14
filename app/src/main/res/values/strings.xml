@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">KALL SIMULATOR</string>
+    <string name="titulo">KALL SIMULATOR</string>
+    <string name="login">LOGIN</string>
+    <string name="email">E-MAIL</string>
+    <string name="senha">SENHA</string>
+    <string name="confirmarsenha">CONFIRMAR SENHA</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="cadastrar">CADASTRAR</string>
+
+    <string name="apagar"> C </string>
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+    <string name="n7">7</string>
+    <string name="n8">8</string>
+    <string name="n9">9</string>
+    <string name="n0">0</string>
+    <string name="asterisco">*</string>
+    <string name="hashtag">#</string>
+    <string name="ligar">LIGAR</string>
+
+</resources>
